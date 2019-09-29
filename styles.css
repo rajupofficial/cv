@@ -1,0 +1,22 @@
+body {
+  background-color: #272727;
+  color: #747474;
+}
+h3, h1 {
+  color: #FFE400;
+}
+p, td {
+  color: white;
+}
+
+
+.photo {
+  border-radius: 100%;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FF652F;
+  border-width: 5px;
+  width: 100%;
+}
